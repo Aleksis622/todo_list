@@ -1,4 +1,5 @@
 <?php require __DIR__ . '/../components/header.php'; ?>
+
 <h1>Visi ieraksti</h1>
 
 <form method="GET" action="/todo_list/">
